@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.DWES {
+    background-color: #bffcc6;
+}
+
+.DWEC {
+    background-color: #ffabab;
+}
+
+.DAW {
+    background-color: #fff5ba;
+}
+
+.DIW {
+    background-color: #afcbff;
+}
+
+.HLC {
+    background-color: #e7ffac;
+}
+
+.EIE {
+    background-color: #d5aaff;
+}
+
+.titulo {
+    background-color: #cccccc;
+}
+
+#tablas {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+#horario tr td {
+    width: 15%;
+}
+
+#leyenda {
+    margin-left: 10px;
+}
+
+#leyenda tr td {
+    width: 80%;
+}
